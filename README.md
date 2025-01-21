@@ -1,2 +1,2 @@
 # webdev_lab1
-Creating test repo for demo use
+Used in January of 2025 spring semester 
